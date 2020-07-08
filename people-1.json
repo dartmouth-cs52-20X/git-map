@@ -14,5 +14,13 @@
     "message": "I have pictures of cats on my website :)",
     "lat_long": [0.347596, 32.582520],
     "year": "'21"
+  },
+  {
+    "name": "Maxwell Lata",
+    "iconUrl": "images/max_lata.jpg",
+    "url": "//maxlata.me",
+    "message": "RIP Senior Spring",
+    "lat_long": [33.027020, -117.061557],
+    "year": "'20"
   }
 ]
