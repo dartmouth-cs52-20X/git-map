@@ -14,5 +14,13 @@
     "message": "I have pictures of cats on my website :)",
     "lat_long": [0.347596, 32.582520],
     "year": "'21"
+  },
+  {
+    "name": "Jeff Liu",
+    "iconUrl": "images/jeff.png",
+    "url": "//jeffliu.me",
+    "message": "I like birbs!",
+    "lat_long": [37.302733, -122.024092],
+    "year": "'23"
   }
 ]
