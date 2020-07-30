@@ -16,6 +16,14 @@
     "year": "'21"
   },
   {
+    "name": "Maxwell Lata",
+    "iconUrl": "images/max_lata.jpg",
+    "url": "//maxlata.me",
+    "message": "RIP Senior Spring",
+    "lat_long": [33.027020, -117.061557],
+    "year": "'20"
+  },
+  {
     "name": "Jeff Liu",
     "iconUrl": "images/jeff.png",
     "url": "//jeffliu.me",
