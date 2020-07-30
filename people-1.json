@@ -4,7 +4,10 @@
     "iconUrl": "images/tim.jpg",
     "url": "//www.zingweb.com",
     "message": "Camper Van life in Iceland",
-    "lat_long": [63.9682201, -16.7972804],
+    "lat_long": [
+      63.9682201,
+      -16.7972804
+    ],
     "year": "11BC"
   },
   {
@@ -12,7 +15,10 @@
     "iconUrl": "images/abubakar.png",
     "url": "//abubakarkasule.me",
     "message": "I have pictures of cats on my website :)",
-    "lat_long": [0.347596, 32.582520],
+    "lat_long": [
+      0.347596,
+      32.582520
+    ],
     "year": "'21"
   },
   {
@@ -20,7 +26,21 @@
     "iconUrl": "images/jeff.png",
     "url": "//jeffliu.me",
     "message": "I like birbs!",
-    "lat_long": [37.302733, -122.024092],
+    "lat_long": [
+      37.302733,
+      -122.024092
+    ],
     "year": "'23"
+  },
+  {
+    "name": "Gia Kim",
+    "iconUrl": "images/gia.jpg",
+    "url": "//giakim.me",
+    "message": "I hate frogs",
+    "lat_long": [
+      21.606979,
+      -157.906204
+    ],
+    "year": "'22"
   }
 ]
