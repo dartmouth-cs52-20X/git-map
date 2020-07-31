@@ -31,5 +31,16 @@
       -74
     ],
     "year": "'22"
+  },
+  {
+    "name": "Caroline Tornquist",
+    "iconUrl": "images/carolinet.jpg",
+    "url": "//carolinet.me",
+    "message": "what's up!",
+    "lat_long": [
+      38.890759,
+      -77.084747
+    ],
+    "year": "'22"
   }
 ]
