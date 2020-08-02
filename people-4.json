@@ -28,5 +28,15 @@
             29.781500, -95.577410
         ],
         "year": "22"
+    },
+    {
+        "name": "Jared Cole",
+        "iconUrl": "images/jared.jpg",
+        "url": "//jaredrcole.me",
+        "message": "Hello!",
+        "lat_long": [
+            40.993627, -73.822583
+        ],
+        "year": "22"
     }
 ]
