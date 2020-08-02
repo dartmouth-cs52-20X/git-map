@@ -31,4 +31,14 @@
     "lat_long": [37.302733, -122.024092],
     "year": "'23"
   }
+,
+  {
+    "name": "Matt Schnell",
+    "iconUrl": "images/matt.png",
+    "url": "//mattschnell.me",
+    "message": "Thankfully sports are back",
+    "lat_long": [33.748997, -84.387985],
+    "year": "'22"
+  }
+
 ]
