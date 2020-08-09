@@ -20,6 +20,16 @@
         "year": "21"
     },
     {
+        "name": "Thomas Clark",
+        "iconUrl": "images/thomasclark.jpg",
+        "url": "//clarkcs52.me",
+        "message": "How's it going up there?",
+        "lat_long": [
+            37.388065, -122.068350
+        ],
+        "year": "22"
+    },
+    {
         "name": "Catherine Parnell",
         "iconUrl": "images/catherineparnell.jpg",
         "url": "//catherinedparnell.me",
