@@ -30,5 +30,13 @@
     "message": "Hello world",
     "lat_long": [39.640259, -106.370872],
     "year": "'22"
+  },
+  {
+    "name": "Jordan Sanz",
+    "iconUrl": "images/jordan.JPG",
+    "url": "//jordansanz.me",
+    "message": "I'm sleepy",
+    "lat_long": [32.024220, -102.161960],
+    "year": "'22"
   }
 ]
