@@ -48,5 +48,15 @@
             40.993627, -73.822583
         ],
         "year": "22"
+    },
+    {
+        "name": "Jai Smith",
+        "iconUrl": "images/jai.jpeg",
+        "url": "//jaismith.dev",
+        "message": "403",
+        "lat_long": [
+            40.7237, -73.9898
+        ],
+        "year": "22"
     }
 ]
