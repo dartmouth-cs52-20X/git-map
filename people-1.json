@@ -22,6 +22,17 @@
     "year": "'21"
   },
   {
+    "name": "Daniel Diaz",
+    "iconUrl": "images/daniel.jpg",
+    "url": "//danyd.me",
+    "message": "SoCal is the best",
+    "lat_long": [
+      34.052235,
+      -118.243683
+    ],
+    "year": "'21"
+  },
+  {
     "name": "Maxwell Lata",
     "iconUrl": "images/max_lata.jpg",
     "url": "//maxlata.me",
