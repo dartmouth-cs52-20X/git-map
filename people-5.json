@@ -48,6 +48,14 @@
       47.5962, 
       -120.6615
     ],
+    "year" : "'22"
+  },
+  {
+    "name": "Katie Huang",
+    "iconUrl": "images/katie.jpg",
+    "url": "//katieh.me",
+    "message": "hi y'all",
+    "lat_long": [39.103119, -84.512016],
     "year": "'22"
   }
 ]
