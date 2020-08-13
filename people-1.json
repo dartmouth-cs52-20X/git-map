@@ -75,5 +75,16 @@
       -157.906204
     ],
     "year": "'22"
+  },
+  {
+    "name": "Kathy Cui",
+    "iconUrl": "images/kathy.png",
+    "url": "//kathycui.me",
+    "message": "bruh",
+    "lat_long": [
+      33.173931,
+      -96.879799
+    ],
+    "year": "'22"
   }
 ]
