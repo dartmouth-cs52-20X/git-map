@@ -58,5 +58,15 @@
             40.7237, -73.9898
         ],
         "year": "22"
+    },
+    {
+        "name": "Chris Sykes",
+        "iconUrl": "images/chris.jpg",
+        "url": "//chrissykes.me",
+        "message": "What's up!",
+        "lat_long": [
+            21.338190, -158.074448
+        ],
+        "year": "22"
     }
 ]
