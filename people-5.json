@@ -38,5 +38,13 @@
     "message": "I'm sleepy",
     "lat_long": [32.024220, -102.161960],
     "year": "'22"
+  },
+  {
+    "name": "Katie Huang",
+    "iconUrl": "images/katie.JPG",
+    "url": "//katieh.me",
+    "message": "hi y'all",
+    "lat_long": [39.103119, -84.512016],
+    "year": "'22"
   }
 ]
