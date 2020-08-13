@@ -26,7 +26,7 @@ Here's what we're going to do!
 ### Clone The Repo
 
 1. 🚀 Clone the repo:
-`git clone git@github.com:dartmouth-cs52-20S/git-map.git`
+`git clone git@github.com:dartmouth-cs52-20X/git-map.git`
 1. 🚀 change directory to this new workspace:
 `cd git-map`
 
