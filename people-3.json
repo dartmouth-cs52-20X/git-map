@@ -42,5 +42,17 @@
       -71.463951
     ],
     "year": "'22"
+  },
+
+  {
+    "name": "Carter Person",
+    "iconUrl":"images/carterperson.jpg",
+    "url": "//carterperson.me",
+    "message": "sometimes it really do be like that",
+    "lat_long": [
+      37.656920,
+      -121.845690
+    ],
+    "year": "'22"
   }
 ]
