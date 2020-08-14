@@ -68,5 +68,15 @@
             21.338190, -158.074448
         ],
         "year": "22"
+    },
+    {
+        "name": "Arjun Srinivasan",
+        "iconUrl": "images/arjun.jpg",
+        "url": "//arjunsrini.me",
+        "message": "Go Go SqueeZ!",
+        "lat_long": [
+            33.773560, -84.296562
+        ],
+        "year": "22"
     }
 ]
