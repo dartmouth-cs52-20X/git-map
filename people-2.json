@@ -22,5 +22,13 @@
     "message": "hi",
     "lat_long": [40.045181, -75.441208],
     "year": "'22"
+  },
+  {
+    "name": "Suraj",
+    "iconUrl": "images/suraj.jpg",
+    "url": "//domain-suraj.me",
+    "message": "works?",
+    "lat_long": [40.045181, -75.441208],
+    "year": "'22"
   }
 ]
