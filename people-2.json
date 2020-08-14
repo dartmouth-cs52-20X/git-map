@@ -25,10 +25,10 @@
   },
   {
     "name": "Suraj",
-    "iconUrl": "images/suraj.jpg",
+    "iconUrl": "images/suraj.png",
     "url": "//domain-suraj.me",
     "message": "works?",
-    "lat_long": [40.045181, -75.441208],
+    "lat_long": [34.203852, -118.608927],
     "year": "'22"
   }
 ]
