@@ -42,5 +42,16 @@
       -77.084747
     ],
     "year": "'22"
+  },
+  {
+    "name": "Quinn Spraut",
+    "iconUrl": "images/quinn.jpg",
+    "url": "//quinnspraut.me",
+    "message": "Is this working?!",
+    "lat_long": [
+      40.335648,
+      -75.926872
+    ],
+    "year": "'22"
   }
 ]
