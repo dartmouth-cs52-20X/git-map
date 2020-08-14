@@ -57,5 +57,15 @@
     "message": "hi y'all",
     "lat_long": [39.103119, -84.512016],
     "year": "'22"
+  },
+  {
+    "name": "Kai Frey",
+    "iconUrl": "images/kai.png",
+    "url": "//kfrey.me",
+    "message": "(Barely) suburban NY squad",
+    "lat_long": [
+      41.444160,
+      -74.097252],
+    "year": "'22"
   }
 ]
