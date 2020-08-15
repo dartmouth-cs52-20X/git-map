@@ -75,5 +75,16 @@
       -73.371500    
     ],
     "year": "'20"
+  },
+  {
+    "name": "Bibaswan Khadka",
+    "iconUrl": "images/bibaswan.jpg",
+    "url": "//bkhadka.me/",
+    "message": "What's up?",
+    "lat_long": [
+      41.878002,
+      -93.097702    
+    ],
+    "year": "22"
   }
 ]
