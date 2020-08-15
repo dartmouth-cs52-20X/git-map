@@ -53,5 +53,16 @@
       -75.926872
     ],
     "year": "'22"
+  },
+  {
+    "name": "Arjun Miklos",
+    "iconUrl": "images/arjunmiklos.jpg",
+    "url": "//arjunmiklos.me",
+    "message": "What's up!",
+    "lat_long": [
+      37.413560,
+      -122.162500
+    ],
+    "year": "'23"
   }
 ]
