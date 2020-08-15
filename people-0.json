@@ -64,5 +64,16 @@
       -122.162500
     ],
     "year": "'23"
+  },
+  {
+    "name": "Scott Stuart",
+    "iconUrl": "images/scott.jpg",
+    "url": "//scottnstuart.me/",
+    "message": "Hi everyone!",
+    "lat_long": [
+      41.704780,
+      -73.371500    
+    ],
+    "year": "'20"
   }
 ]
