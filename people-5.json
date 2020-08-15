@@ -77,5 +77,15 @@
       29.597080,
       -95.620972],
     "year": "'23"
+  },
+  {
+    "name": "Devon Chen",
+    "iconUrl": "images/devon.jpg",
+    "url": "//devonchen.me",
+    "message": "Poolside Convos",
+    "lat_long": [
+      36.615101,
+      -82.172287],
+    "year": "'22"
   }
 ]
