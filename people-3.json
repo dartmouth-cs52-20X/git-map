@@ -66,5 +66,17 @@
       -71.531780
     ],
     "year": "'22"
-  }
+  },
+
+{
+  "name": "Shane Hewitt",
+  "iconUrl": "images/shane.png",
+  "url": "//shanechewitt.me/",
+  "message": "hi from mini soda",
+  "lat_long": [
+    44.936489,
+    -93.657898
+  ],
+  "year": "'22"
+}
 ]
