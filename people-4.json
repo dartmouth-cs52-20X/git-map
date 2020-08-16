@@ -78,5 +78,16 @@
             33.773560, -84.296562
         ],
         "year": "22"
+    },
+    {
+        "name": "Jack Vasu",
+        "iconUrl": "images/vasu.jpg",
+        "url": "//jackvasu.me",
+        "message": "Hello World!",
+        "lat_long": [
+            42.360081, -71.058884
+        ],
+        "year": "22"
     }
+    
 ]
