@@ -17,7 +17,7 @@
   },
   {
     "name": "Aditya Choudhari",
-    "iconUrl": "images/aditya.JPG",
+    "iconUrl": "images/aditya.jpg",
     "url": "//adityachoudhari.me",
     "message": "Hi from Atlanta!",
     "lat_long": [34.09119, -84.3558],
@@ -86,6 +86,16 @@
     "lat_long": [
       36.615101,
       -82.172287],
+    "year": "'22"
+  },
+  {
+    "name": "Alaina Arnold",
+    "iconUrl": "images/alaina.jpg",
+    "url": "//alainaarnold.me",
+    "message": "yeehaw",
+    "lat_long": [
+      30.388261,
+      -95.696336],
     "year": "'22"
   }
 ]
