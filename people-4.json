@@ -80,6 +80,16 @@
         "year": "22"
     },
     {
+        "name": "Nathan Schneider",
+        "iconUrl": "images/n_schneider.png",
+        "url": "//nschneider.me",
+        "message": "Yeet or be Yeeten",
+        "lat_long": [
+            40.224030, -105.269913
+        ],
+        "year": "22"
+    },
+    {
         "name": "Jack Vasu",
         "iconUrl": "images/vasu.jpg",
         "url": "//jackvasu.me",
